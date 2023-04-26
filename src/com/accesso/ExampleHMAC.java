@@ -57,7 +57,7 @@ public class ExampleHMAC
 		Element rootElement = xml.getDocumentElement();
 
 		// Declare the private key that will be used to generate the HMAC. DANGER! THIS SHOULD NOT BE HARDCODED IN PRODUCTION IMPLEMENTATIONS!
-		String privateKey = "abcdefg876543";
+		String privateKey = "n/KfH4/Js/nNLfnEssO2RPjgAnb8MGzySKq11HiRqPl0PqHaiupYPA==";
 
 		// Declare the list that will store all attributes. NOT YET SORTED! After the items are added to the list it MUST be sorted before it is used to
 		// generate the HMAC.
